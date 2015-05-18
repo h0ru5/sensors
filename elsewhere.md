@@ -17,5 +17,8 @@ Related conversations, posts, etc.
 ## Documents
 
 * The [Extensible Web Report Card on Sensors][301], maintained by W3C TAG.
+* A [Sketch for Defining Abstract Interactions for APIs and Protocol Bindings][302], from the [W3C Interest Group on the Web of Things][303]
 
 [301]: https://extensiblewebreportcard.org/#toc-28
+[302]: https://github.com/w3c/wot/blob/master/TF-AP/Example_sketch.md
+[303]: http://www.w3.org/WoT/IG/
